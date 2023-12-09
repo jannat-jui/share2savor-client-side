@@ -1,5 +1,7 @@
 ## Share2Savor - Food Donation Website live link: https://share2savor.web.app/
 
+## Server Side Link: https://github.com/jannat-jui/share2savor-server-side
+
 Welcome to Share2Savor, a food donation website built with React, Node.js, Express.js, and MongoDB. This platform enables users to contribute and request food donations, fostering a community-driven initiative to combat food insecurity.
 
 ## Table of Contents
